@@ -2,11 +2,11 @@ public without sharing class FLSCheckUtility {
 	/***************************************************************************************************************
 	 * Methods:
 	 *  1. isAccessible(String sObjectType, String commaDelimitedFields)	// for CRUD and FLS check multiple fields
-	 *  2. isAccessible(String sObjectType) 								// for CRUD check of single object
-	 *  3. isCreateable(String sObjectType, String commaDelimitedFields)	// for 
-	 *  4. isCreateable(String sObjectType)
+	 *  2. isAccessible(String sObjectType) 				// for CRUD check of single object
+	 *  3. isCreateable(String sObjectType, String commaDelimitedFields)	
+	 *  4. isCreateable(String sObjectType)					
 	 *  5. isUpdateable(String sObjectType, String commaDelimitedFields)
-	 *  6. isDeletable(String sObjectType)
+	 *  6. isUpdateable(String sObjectType)
 	 *  7. isDeletable(String sObjectType)
 	 * **************************************************************************************************************/
     
