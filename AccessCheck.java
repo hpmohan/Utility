@@ -1,6 +1,5 @@
 /*
 * Class Name : AccessCheck
-* Author : Persistent Systems
 * Desc : This Utility method is used to check the Object level CRUD permission and FLS before performing any DML Operations
 *    The code dynamically parses all the involved fields in the sObject instance(s) passed and throws Exception/returns true based on CRUD and FLS 
 *    permissions.
